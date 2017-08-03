@@ -1,4 +1,4 @@
 # Project_Processing
 
-### Refrences:
+### References:
 1. `size()` : 
